@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">stt_tts</string>
+    <string name="app_name">SpeechTextConverter</string>
+    <string name="main_tab_name">STT &amp; TTS Demo</string>
+    <string name="main_speech_to_text_title">Speech to Text</string>
+    <string name="main_speech_to_text_output">Speech to Text Output:</string>
+    <string name="main_speech_to_text_output_message">Speech to Text message will show here!</string>
+    <string name="main_text_to_speech_title">Text to Speech</string>
+    <string name="main_text_to_speech_output">Text to Speech Output</string>
+    <string name="main_text_to_speech_output_message">Write text and press the button</string>
+
 </resources>

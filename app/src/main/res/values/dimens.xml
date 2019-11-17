@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="common_margin">16dp</dimen>
+    <dimen name="common_margin_small">10dp</dimen>
+    <dimen name="main_button_width">40dp</dimen>
+</resources>
